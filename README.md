@@ -13,7 +13,7 @@
 
 <div align="center">
 
-![Anmol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xFrosTxX&count_private=true&show_icons=true&theme=tokyonight)
+![Anmol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xFrosTxX&count_private=true&show_icons=true&theme=tokyonight&cache_seconds=60)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xFrosTxX&layout=compact&theme=tokyonight)
 
