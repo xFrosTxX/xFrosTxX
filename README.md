@@ -2,7 +2,7 @@
 
 # Hey, I'm Anmol 👋
 
-**Computer Science student @ Kathmandu University · Builder of mobile & web apps · ML enthusiast**
+**Computer Science student @ Kathmandu University · Builder of mobile & web apps**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anmoldahal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmoldahal/)
 [![GitHub](https://img.shields.io/badge/GitHub-xFrosTxX-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xFrosTxX)
